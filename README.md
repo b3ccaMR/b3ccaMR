@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @b3ccaMR
 - 👀 I’m interested in math, data, and art.
-- 🌱 I’m currently learning NPL.
+- 🎓 DS4A Honors Certificate
+- 🌱 I’m currently learning NPL with WiBD.
+     - 📊 WiBD: Data Science Olympian
 
-REP.LIT:  https://replit.com/@beccamr
+
+# Here is my [Portfolio](https://sites.google.com/view/beccamr), I'm still adding to it!
